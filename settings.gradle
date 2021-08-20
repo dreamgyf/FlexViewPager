@@ -9,3 +9,5 @@ dependencyResolutionManagement {
 rootProject.name = "FlexViewPager"
 include ':app'
 include ':FlexViewPager'
+
+project(':FlexViewPager').projectDir = new File('./FlexViewPager')
