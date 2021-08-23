@@ -6,6 +6,5 @@ A ViewPager that can automatically adapt to changes in the height of the child v
 
 ---
 
-<video id="video" controls="" preload="none" poster="Demo">
-    <source id="mp4" src="https://raw.githubusercontent.com/dreamgyf/FlexViewPager/master/demo.mp4" type="video/mp4">
-</video>
+![demo](https://user-images.githubusercontent.com/36072543/130400960-cdd96364-6a80-4dd0-bd1f-fa8a38ec44bf.gif)
+
