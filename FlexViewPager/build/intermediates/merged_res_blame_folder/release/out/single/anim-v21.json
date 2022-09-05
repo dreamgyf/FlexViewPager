@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-merged_res-28:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-material-1.6.1-4:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-merged_res-28:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-material-1.6.1-4:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-merged_res-28:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-material-1.6.1-4:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-merged_res-28:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-material-1.6.1-4:/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-merged_res-28:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-fragment-1.3.6-22:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    }
+]

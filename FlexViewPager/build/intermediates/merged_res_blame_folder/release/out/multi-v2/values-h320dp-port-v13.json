@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-merged_res-28:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/a_dream/.gradle/caches/transforms-3/5ecf78887d09c8d5772bfd0d13860753/transformed/material-1.6.1/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-mergeReleaseResources-26:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/a_dream/.gradle/caches/transforms-3/5ecf78887d09c8d5772bfd0d13860753/transformed/material-1.6.1/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}

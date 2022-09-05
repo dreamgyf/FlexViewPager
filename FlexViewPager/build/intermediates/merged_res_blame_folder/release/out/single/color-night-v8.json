@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-merged_res-28:/color-night-v8/material_timepicker_clockface.xml",
+        "source": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-material-1.6.1-4:/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-merged_res-28:/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-material-1.6.1-4:/color-night-v8/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-merged_res-28:/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "com.dreamgyf.android.ui.widget.viewpager.flex.FlexViewPager-material-1.6.1-4:/color-night-v8/material_timepicker_modebutton_tint.xml"
+    }
+]
